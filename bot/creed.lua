@@ -220,28 +220,24 @@ function create_config( )
     "lock_link",
     "all"
     },
-    sudo_users = {163437093,118682430,67018895},--Sudo users
+    sudo_users = {150575718},--Sudo users
     disabled_channels = {},
-    realm = {48687411,41151446},--Realms Id
+    realm = {150575718},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.0
     
      Hello my Good friends 😀🖐🏻
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by :
    〰〰〰〰〰〰〰〰
-   🚩 Our admins are : 
-   🔰 @sorblack_creed
-   🔰 @amircc_creed
-   🔰 @aria_creed
-   🔰 @alireza_mah_creed 
+  
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    
    !feedback (your ideas and messages)
 ]],
     help_text = [[
-Creed bots Help for mods : 😈
+star bot  Help for mods : 😈
 Plugins : 🔻
 
 1. banhammer ⭕️
@@ -337,8 +333,7 @@ send maseage to admins via bot🔈
 will tag users©
 〰〰〰〰〰〰〰〰〰
 🔜 more plugins 
-⚠️ We are Creeds ... ⚠️
-our channel : @creedantispam_channel🔋
+⚠️ 
 You Can user both "!" & "/" for them🎧
 ]]
 
